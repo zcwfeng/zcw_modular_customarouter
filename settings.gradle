@@ -1,0 +1,8 @@
+include ':personal'
+include ':order'
+include ':common'
+include ':arouter_compiler'
+include ':arouter_api'
+include ':arouter_annotation'
+include ':app'
+rootProject.name = "zcw_modular_customarouter"
